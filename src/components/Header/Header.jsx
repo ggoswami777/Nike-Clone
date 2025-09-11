@@ -5,7 +5,7 @@ import BottomSection from './BottomSection'
 
 const Header = () => {
   return (
-    <div className='bg-[#111111] h-[25vh] w-[100vw] flex flex-col  text-white'>
+    <div className='bg-[#111111]  w-[100vw] flex flex-col  text-white'>
       <TopSection/>
       <Nav/>
       <BottomSection/>
